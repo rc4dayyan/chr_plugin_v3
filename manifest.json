@@ -20,7 +20,7 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": ".",
+  "start_url": "./chr_plugin_v3",
   "display": "standalone",
   "theme_color": "#1566d1",
   "background_color": "#ffffff"
